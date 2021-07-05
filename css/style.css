@@ -1,0 +1,60 @@
+.picture img{
+    width: 35%;
+}
+.text{
+    font-weight: 700;
+}
+.icon-button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+}
+.half-width img{
+    width: 100%;
+}
+.text-1{
+    color: goldenrod;
+}
+.text-2{
+    color: navy;
+}
+.image-ladies img{
+    width: 150px;
+}
+.logo-2 img{
+    width: 100%;
+    height: 80%;
+    margin-top: 10px;
+}
+.logo-1 img{
+    width: 50%;
+    
+
+}
+.text-a{
+    text-align: right;
+    padding-top: 0;  
+     
+}
+.text-5{
+    text-align: right;
+}
+.penguin-card{
+    border: 0; 
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.jaket img{
+    width: 100px;
+    margin-left: 80px;
+}
+.yellow-card img{
+    height: 150px;
+    width: 120px;
+}
+.taka{
+    color: goldenrod;
+    
+}
